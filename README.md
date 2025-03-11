@@ -1,5 +1,7 @@
 # AI-News-Summarizer
 
+
+  ( Currently Working On it )
 AI News Summarizer
 
 A powerful AI-based news summarization tool that extracts key insights from lengthy news articles. This project uses Natural Language Processing (NLP) and machine learning to generate concise, readable summaries, helping users stay informed without reading entire articles.
